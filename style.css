@@ -1,0 +1,238 @@
+*{
+    margin: 0%; padding: 0%;
+}
+
+body{
+    background-color: white;
+}
+.logo img{margin-left: 15px;
+    height: 10vh; width: 5%;
+}
+.header{
+    background-color: pink;
+    width: cover;
+    height: 10vh;
+}
+
+.menus{
+    float: right;
+    font-size: 4vh;
+    font-weight: bold;
+    
+   margin-top: 45px;
+   margin-right: 3vh;
+}
+
+.menus a{  list-style: none;
+    color: black;
+    list-style: none;
+    column-width: 2vh;
+    margin-left: 2px;
+    column-gap: 1vh;}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15vh;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-size: 5vh;
+}
+
+
+.buttons{
+    background-color: white;    
+    height:20vh;
+    width: 70vh;
+    margin-top: 5.5vh;
+    margin-left: 69vh;
+
+}
+
+.buttons button{
+    margin-left: 8vh;
+    width: 23vh;
+    height: 6vh;
+background-color: rgb(0, 0, 0);
+font-size: 5vh;
+color: rgb(207, 210, 0);
+border-radius: 2vh;
+cursor: pointer;
+font-weight: bold;
+margin-top: 5vh;
+}
+
+.buttons button:hover{color: rgb(4, 5, 5);
+    background-color: rgb(255, 238, 0);
+}
+
+.fincontainer{
+    background-color: white;
+    margin-top: 19vh;
+    height: 70vh;
+    width: cover;
+    
+}
+
+.fpara{
+    font-size: 10vh;
+    height: 68vh;
+    width: 55vh;
+    color: black;
+    float: left;
+    margin-left: 45cm;
+    margin-top: 1vh;
+background-color: white;}
+
+.fpara p{
+ 
+    text-align: center;
+    font-size: 10cm;
+    font-weight: bold;
+    color: black;
+
+}
+
+.fcimg{
+    height: 65vh;
+    width: 50vh;
+    float: right;
+    background-color: white;
+    margin-top: 65px;
+    margin-right: 7.5cm;
+}
+
+
+.fcimg img{
+height:65vh ;
+width: 50vh;
+}
+
+
+.sincomtainer{
+    background-color: white;
+    height: 65vh;
+    width: cover;
+    margin-top: 30vh;
+}
+
+.simg{
+    height:63vh;
+    width:55vh ;
+    background-color: white;
+    margin-left: 9vh;
+    margin-top: 1vh;
+    float: left;
+}
+
+.simg img{
+    height: 63vh;
+    width: 55vh;
+    
+}
+
+.spara{
+    float: right;
+    background-color: white;
+    margin-right: 70vh;
+    height: 63vh;
+    width: 55vh;
+    margin-top: 1vh;
+}
+
+.spara p{
+    font-size: 15vh;
+    font-weight: bold;
+    color: black;
+    margin-top: 3vh;
+    text-align: center;
+}
+
+.tincontainer{
+    height: 66vh;
+    width: cover;
+    background-color: white;
+    margin-top: 32vh;
+}
+
+.tpara{
+    float: left;
+    background-color: white;
+    width: 55vh;
+    height: 65vh;
+    margin-left: 80vh;
+    margin-top: 0.5vh;
+}
+
+.tpara p{
+    font-size: 15vh;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10vh;
+    
+}
+
+.timg{
+    width: 50vh;
+    height: 63vh;
+    float: right;
+    background-color: white;
+    margin-top: 2vh;
+    margin-right: 10vh;
+    align-items: center;
+
+}
+
+.timg img{height:63vh ;
+    width: 50vh;
+    align-items: center;
+    
+
+}
+
+.focontainer{
+    height: 65vh;
+    width: cover;
+    margin-top: 15%;
+    background-color: white;
+
+}
+
+.foimg{
+    background-color: white;
+    height: 63vh;
+    width: 55vh;
+    margin-left: 9vh;
+    float: left;
+    margin-top: 0.9vh;
+}
+.foimg img{width: cover;
+    height: 45vh;
+    margin-top: 10vh;
+
+}
+
+.fopara{
+    background-color: white;
+    width: 55vh;
+    height: 63vh;
+    float: right;
+    margin-right: 39vh;
+    margin-top: 1vh;
+    
+}
+
+.fopara p {font-size: 15vh;
+ font-weight: bold;
+ text-align: center;
+margin-top: 3vh;}
+
+.form{
+    background-color: green;
+    height: 100vh;
+    width: cover;
+}
